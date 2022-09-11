@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-140\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-18 07:12+0200\n"
-"PO-Revision-Date: 2022-09-10 07:10\n"
+"PO-Revision-Date: 2022-09-11 08:05\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -11,10 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: odoo-docs-locale-ja-140\n"
-"X-Crowdin-Project-ID: 537070\n"
+"X-Crowdin-Project-ID: 537198\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: developer.pot\n"
-"X-Crowdin-File-ID: 116\n"
+"X-Crowdin-File-ID: 178\n"
 "Language: ja_JP\n"
 
 #: ../../content/developer.rst:3
@@ -47,15 +47,15 @@ msgstr "外部識別子は :samp:`{module}.{id}` の形式になっています(
 
 #: ../../content/developer/glossary.rst:20
 msgid "Sometimes referred to as \"xml id\" or ``xml_id`` as XML-based :ref:`reference/data` make extensive use of them."
-msgstr "XMLベースの :ref:`reference/data` として \"xml id\" や ``xml_id`` と呼ばれることもあり、これらを広範に利用しています。"
+msgstr ""
 
 #: ../../content/developer/glossary.rst:22
 msgid "format string"
-msgstr "書式文字列"
+msgstr ""
 
 #: ../../content/developer/glossary.rst:24
 msgid "inspired by `jinja variables`_, format strings allow more easily mixing literal content and computed content (expressions): content between ``{{`` and ``}}`` is interpreted as an expression and evaluated, other content is interpreted as literal strings and displayed as-is"
-msgstr "`jinja variables`_ の影響を受け、書式文字列は、リテラルコンテンツと計算コンテンツ (式) をより簡単に混在させることができます。`{{``と`}}``の間のコンテンツは式として解釈され、評価されますが、その他のコンテンツはリテラル文字列として解釈され、そのまま表示されます。"
+msgstr ""
 
 #: ../../content/developer/glossary.rst:29
 msgid "GIS"
@@ -63,39 +63,39 @@ msgstr ""
 
 #: ../../content/developer/glossary.rst:30
 msgid "Geographic Information System"
-msgstr "地理情報システム（Geographic Information System）"
+msgstr ""
 
 #: ../../content/developer/glossary.rst:32
 msgid "any computer system or subsystem to capture, store, manipulate, analyze, manage or present spatial and geographical data."
-msgstr "コンピュータシステムやサブシステムで空間と地理的データを収集・保存・操作・分析・管理・提示することができます。"
+msgstr ""
 
 #: ../../content/developer/glossary.rst:34
 msgid "minified"
-msgstr "縮小された"
+msgstr ""
 
 #: ../../content/developer/glossary.rst:35
 msgid "minification"
-msgstr "縮小"
+msgstr ""
 
 #: ../../content/developer/glossary.rst:37
 msgid "process of removing extraneous/non-necessary sections of files (comments, whitespace) and possibly recompiling them using equivalent but shorter structures (`ternary operator`_ instead of ``if/else``) in order to reduce network traffic"
-msgstr "ネットワークトラフィックを削減するために、ファイルから不要な部分 (コメントや空白) を削除し、場合によっては同等の短い構造 (`if/else`の代わりに`ternary operator`_) で再コンパイルするプロセス。"
+msgstr ""
 
 #: ../../content/developer/howtos.rst:3
 msgid "Tutorials"
-msgstr "チュートリアル"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:7
 msgid "Building a Module"
-msgstr "モジュールの構築"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:11
 msgid "This tutorial requires :ref:`having installed Odoo <setup/install>`"
-msgstr "このチュートリアルでは、 :ref:`Odoo のインストール <setup/install> ` が必要です。"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:14
 msgid "Start/Stop the Odoo server"
-msgstr "Odoo サーバーの起動/停止"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:16
 msgid "Odoo uses a client/server architecture in which clients are web browsers accessing the Odoo server via RPC."
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:48
 msgid "Composition of a module"
-msgstr "モジュールの構造"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:50
 msgid "An Odoo module can contain a number of elements:"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:57
 msgid ":ref:`Object views <reference/views>`"
-msgstr ":ref:`オブジェクトビュー <reference/views>`"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:57
 msgid "Definition of business objects UI display"
@@ -163,31 +163,31 @@ msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:62
 msgid ":ref:`views <reference/views>` or :ref:`reports <reference/reports>`,"
-msgstr ":ref:`ビュー <reference/views>` or :ref:`レポート <reference/reports>`,"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:63
 msgid "configuration data (modules parametrization, :ref:`security rules <reference/security>`),"
-msgstr "構成データ (モジュールのパラメータ化、 :ref:`セキュリティルール <reference/security>`)"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:64
 msgid "demonstration data"
-msgstr "デモデータ"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:65
 msgid "and more"
-msgstr "などなど"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:68
 msgid ":ref:`Web controllers <reference/controllers>`"
-msgstr ":ref:`ウェブコントローラ <reference/controllers>`"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:68
 msgid "Handle requests from web browsers"
-msgstr "Webブラウザからのリクエストを処理します。"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:71
 msgid "Static web data"
-msgstr "静的Webデータ"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:71
 msgid "Images, CSS or javascript files used by the web interface or website"
@@ -196,11 +196,11 @@ msgstr ""
 #: ../../content/developer/howtos/backend.rst:74
 #: ../../content/developer/reference/guidelines.rst:32
 msgid "Module structure"
-msgstr "モジュール構造"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:76
 msgid "Each module is a directory within a *module directory*. Module directories are specified by using the :option:`--addons-path <odoo-bin --addons-path>` option."
-msgstr "各モジュールは *モジュールディレクトリ* というディレクトリにあります。モジュールディレクトリは、 :option:`--addons-path <odoo-bin --addons-path>` オプションを使用して指定します。"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:83
 msgid "most command-line options can also be set using :ref:`a configuration file <reference/cmdline/config>`"
@@ -208,7 +208,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:86
 msgid "An Odoo module is declared by its :ref:`manifest <reference/module/manifest>`."
-msgstr "Odoo モジュールは、 :ref:`マニフェスト <reference/module/manifest>` で宣言されます。"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:88
 msgid "A module is also a `Python package <http://docs.python.org/2/tutorial/modules.html#packages>`_ with a ``__init__.py`` file, containing import instructions for various Python files in the module."
@@ -380,7 +380,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:210
 msgid "Data files"
-msgstr "データファイル"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:212
 msgid "Odoo is a highly data driven system. Although behavior is customized using Python_ code part of a module's value is in the data it sets up when loaded."
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:852
 msgid "Advanced Views"
-msgstr "アドバンスドビュー"
+msgstr ""
 
 #: ../../content/developer/howtos/backend.rst:857
 msgid "Tree views can take supplementary attributes to further customize their behavior:"
@@ -3729,7 +3729,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/web.rst:1224
 msgid "Translations"
-msgstr "翻訳"
+msgstr ""
 
 #: ../../content/developer/howtos/web.rst:1226
 msgid "The process to translate text in Python and JavaScript code is very similar. You could have noticed these lines at the beginning of the ``petstore.js`` file::"
@@ -4539,7 +4539,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website.rst:234
 msgid "Accessing the data"
-msgstr "データへのアクセス"
+msgstr ""
 
 #: ../../content/developer/howtos/website.rst:236
 msgid "The last step is to alter model and template to use our demonstration data:"
@@ -4896,7 +4896,7 @@ msgstr ""
 #: ../../content/developer/reference/actions.rst:6
 #: ../../content/developer/reference/iot.rst:138
 msgid "Actions"
-msgstr "アクション"
+msgstr ""
 
 #: ../../content/developer/reference/actions.rst:8
 msgid "Actions define the behavior of the system in response to user actions: login, action button, selection of an invoice, ..."
@@ -6261,7 +6261,7 @@ msgstr ""
 
 #: ../../content/developer/reference/data.rst:6
 msgid "Data Files"
-msgstr "データファイル"
+msgstr ""
 
 #: ../../content/developer/reference/data.rst:8
 msgid "Odoo is greatly data-driven, and a big part of modules definition is thus the definition of the various records it manages: UI (menus and views), security (access rights and access rules), reports and plain data are all defined via records."
@@ -6611,7 +6611,7 @@ msgstr ""
 
 #: ../../content/developer/reference/data.rst:264
 msgid "CSV data files"
-msgstr "CSVデータファイル"
+msgstr ""
 
 #: ../../content/developer/reference/data.rst:266
 msgid "XML data files are flexible and self-descriptive, but very verbose when creating a number of simple records of the same model in bulk."
@@ -6867,231 +6867,231 @@ msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:8
 msgid "Odoo Guidelines"
-msgstr "Odoo ガイドライン"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:10
 msgid "This page introduces the Odoo Coding Guidelines. Those aim to improve the quality of Odoo Apps code. Indeed proper code improves readability, eases maintenance, helps debugging, lowers complexity and promotes reliability. These guidelines should be applied to every new module and to all new development."
-msgstr "本ページでは、Odoo コーディングガイドラインを紹介します。Odoo Appsコードの品質向上を目的としています。 確かに、適切なコードは、読みやすさを改善し、メンテナンスを容易にし、デバッグを助け、複雑さを減らし、信頼性を高めます。 これらのガイドラインは、すべての新しいモジュールとすべての新しい開発に適用されるようにします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:17
 msgid "When modifying existing files in **stable version** the original file style strictly supersedes any other style guidelines. In other words please never modify existing files in order to apply these guidelines. It avoids disrupting the revision history of code lines. Diff should be kept minimal. For more details, see our `pull request guide <https://odoo.com/submit-pr>`_."
-msgstr "**安定版** で既存のファイルを変更する場合、オリジナルのファイルスタイルは他のスタイルガイドラインより厳密に優先されます。 つまり、これらのガイドラインを適用するために、既存のファイルを変更しないでください。 コード行のリビジョン履歴を乱すのを避けます。差分は最小限に抑えるべきです。詳細については、 `プルリクエストのガイド <https://odoo.com/submit-pr>`_ を参照してください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:25
 msgid "When modifying existing files in **master (development) version** apply those guidelines to existing code only for modified code or if most of the file is under revision. In other words modify existing files structure only if it is going under major changes. In that case first do a **move** commit then apply the changes related to the feature."
-msgstr "**master (development) バージョン** の既存のファイルを変更する場合は、既存のコードにこれらのガイドラインを適用します。 つまり、既存のファイル構造を大幅に変更する場合にのみ適用します。 その場合、最初に **move** コミットを実行し、その機能に関連する変更を適用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:35
 msgid "Directories"
-msgstr "ディレクトリ"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:36
 msgid "A module is organized in important directories. Those contain the business logic; having a look at them should make you understand the purpose of the module."
-msgstr "モジュールは重要なディレクトリで構成されています。 それらはビジネスロジックを含んでいますので、それを見れば、モジュールの目的を理解することとなるでしょう。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:39
 msgid "*data/* : demo and data xml"
-msgstr "*data/* : デモ・データと データ用 xml"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:40
 msgid "*models/* : models definition"
-msgstr "*models/* : モデル定義"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:41
 msgid "*controllers/* : contains controllers (HTTP routes)"
-msgstr "*controllers/* : コントローラーが含まれています (HTTP routes)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:42
 msgid "*views/* : contains the views and templates"
-msgstr "*views/* : ビューとテンプレートが含まれています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:43
 msgid "*static/* : contains the web assets, separated into *css/, js/, img/, lib/, ...*"
-msgstr "*static/* : Web アセットを含んでいます。 *css/, js/, img/, lib/, ...* と分けられています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:45
 msgid "Other optional directories compose the module."
-msgstr "他にも、任意のディレクトリでモジュールを構成します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:47
 msgid "*wizard/* : regroups the transient models (``models.TransientModel``) and their views"
-msgstr "*wizard/* : トランジェントモデル (``models.TransientModel``) とそのビューをを再編成しています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:48
 msgid "*report/* : contains the printable reports and models based on SQL views. Python objects and XML views are included in this directory"
-msgstr "*report/* : 印刷可能なレポートとSQL ビューに基づくモデルが含まれています。Python オブジェクトと XML ビューは、このディレクトリに含まれています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:49
 msgid "*tests/* : contains the Python tests"
-msgstr "*tests/* : Python テストが含まれています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:53
 msgid "File naming"
-msgstr "ファイルの命名"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:55
 msgid "File naming is important to quickly find information through all odoo addons. This section explains how to name files in a standard odoo module. As an example we use a `plant nursery <https://github.com/tivisse/odoodays-2018/tree/master/plant_nursery>`_ application. It holds two main models *plant.nursery* and *plant.order*."
-msgstr "ファイルの命名は、すべてのアドオンから情報をすばやく見つけるために重要です。このセクションでは、標準の odoo モジュールでファイルに名前を付ける方法を説明します。 例として、`plant nursery <https://github.com/tivisse/odoodays-2018/tree/master/plant_nursery>`_ アプリケーションを使用します。 このアプリケーションでは、*plant.narsery* と *plant.order* といった2つの主要なモデルを保持しています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:60
 msgid "Concerning *models*, split the business logic by sets of models belonging to a same main model. Each set lies in a given file named based on its main model. If there is only one model, its name is the same as the module name. Each inherited model should be in its own file to help understanding of impacted models."
-msgstr "*models* については、同じメインモデルに属するモデルでビジネスロジックを分割します。 各セットは、メインモデルに基づいて指定されたファイルにあります。 モデルが 1 つだけの場合は、モジュール名と同じ名前になります。 それぞれの継承されたモデルは、影響を受けたモデルの理解に役立つ独自のファイルでなければなりません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:74
 msgid "Concerning *security* and access rights and rules two main files should be used. First one is the definition of access rights done in a ``ir.model.access.csv`` file. User groups are defined in ``<module>_groups.xml``. Access rules are defined in ``<model>_security.xml``."
-msgstr "*security* やアクセス権とアクセスルールに関しては、2つの主要なファイルを使用する必要があります。最初に、 ``ir.model.access.csv`` ファイル で行われるアクセス権の定義です。ユーザーグループは `<module>_groups.xml`` で定義されています。アクセスルールは `<model>_security.xml`` で定義されています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:88
 msgid "Concerning *views*, backend views should be split like models and suffixed by ``_views.xml``. Backend views are list, form, kanban, activity, graph, pivot, .. views. To ease split by model in views main menus not linked to specific actions may be extracted into an optional ``<module>_menus.xml`` file. Templates (QWeb pages used notably for portal / website display) and bundles (import of JS and CSS assets) are put in separate files. Those are respectively ``<model>_templates.xml`` and ``assets.xml`` files."
-msgstr "*views* については、バックエンドビューをモデルと同様に分割し、サフィックスとして ``_views.xml`` を付ける必要があります。バックエンドビューには、リストビュー、フォームビュー、カンバンビュー、アクティビティビュー、グラフビュー、ピボットビュー...などがあります。ビューのモデルごとの分割を容易にするために、特定のアクションにリンクしていないメインメニューは、任意で ``<module>_menus.xml`` ファイルに抽出することができます。テンプレート (主にポータルやウェブサイトの表示に使われる QWeb ページ) とバンドル (JS および CSS アセットのインポート) は、それぞれ別のファイルに格納されます。それぞれ ``<model>_templates.xml`` と ``assets.xml`` ファイルです。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:108
 msgid "Concerning *data*, split them by purpose (demo or data) and main model. Filenames will be the main_model name suffixed by ``_demo.xml`` or ``_data.xml``. For instance for an application having demo and data for its main model as well as subtypes, activities and mail templates all related to mail module:"
-msgstr "*data* については、目的(デモまたはデータ)とメインモデルで分割します。ファイル名は ``_demo.xml`` または ``_data.xml`` でサフィックスされた main_model 名になります。 たとえば、メインモデルとサブタイプのデモとデータを持つアプリケーションの場合。 アクティビティとメールテンプレートはすべてメールモジュールに関連しています:"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:121
 msgid "Concerning *controllers*, generally all controllers belong to a single controller contained in a file named ``<module_name>.py``. An old convention in Odoo is to name this file ``main.py`` but it is considered as outdated. If you need to inherit an existing controller from another module do it in ``<inherited_module_name>.py``. For example adding portal controller in an application is done in ``portal.py``."
-msgstr "*controllers* については、一般的にすべてのコントローラは、 ``<module_name>.py`` というファイルに含まれる1つのコントローラに属しています。Odoo の古い慣習では、このファイルを ``main.py`` と名付けていますが、これは時代遅れと考えられます。既存のコントローラを他のモジュールから継承する必要がある場合は、 ``<inherited_module_name>.py`` で行います。例えば、アプリケーションにポータルコントローラを追加するには、 ``portal.py`` を使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:135
 msgid "Concerning *static files*, Javascript files follow globally the same logic as python models. Each component should be in its own file with a meaningful name. For instance, the activity widgets are located in ``activity.js`` of mail module. Subdirectories can also be created to structure the 'package' (see web module for more details). The same logic should be applied for the templates of JS widgets (static XML files) and for their styles (scss files). Don't link data (image, libraries) outside Odoo: do not use an URL to an image but copy it in the codebase instead."
-msgstr "*static files* については、JavascriptファイルでPythonモデルと同じロジックに従います。 各コンポーネントは、意味のある名前のファイルに含める必要があります。たとえば、メールモジュールの ``activity.js`` にアクティビティウィジェットがあります。 サブディレクトリは 'package' を構造化するために作成することもできます (詳細は web モジュールを参照してください)。 JSウィジェットのテンプレート(静的XMLファイル)とスタイル(scssファイル)に同じロジックを適用する必要があります。 Odoo の外にあるデータ (画像、ライブラリ) をリンクしないでください: URL を画像に使用せず、代わりにコードベースにコピーしてください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:144
 msgid "Concerning *wizards*, naming convention is the same of for python models: ``<transient>.py`` and ``<transient>_views.xml``. Both are put in the wizard directory. This naming comes from old odoo applications using the wizard keyword for transient models."
-msgstr "*wizards* については、命名規則はPythonモデルと同じです: ``<transient>.py`` と ``<transient>_views.xml`` です。 両者ともウィザードディレクトリに配置されています。この名前は、トランジェントモデルのウィザードキーワードを使用している古いodooアプリケーションから来ています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:156
 msgid "Concerning *statistics reports* done with python / SQL views and classic views naming is the following :"
-msgstr "*statistics reports* については、次のように python / SQL ビューと古典的なビューの命名を行います。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:166
 msgid "Concerning *printable reports* which contain mainly data preparation and Qweb templates naming is the following :"
-msgstr "主にデータ準備やQWebテンプレートの命名を含む *printable reports* については、次の通りです:"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:176
 msgid "The complete tree of our Odoo module therefore looks like"
-msgstr "したがって、Odoo モジュールの完全なツリーは次のようになります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:235
 msgid "File names should only contain ``[a-z0-9_]`` (lowercase alphanumerics and ``_``)"
-msgstr "ファイル名は ``[a-z0-9_]`` (小文字の英数字と ``_``) のみを含める必要があります"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:238
 msgid "Use correct file permissions : folder 755 and file 644."
-msgstr "正しいファイルパーミッションを使用してください：フォルダは、755、ファイルは644。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:243
 msgid "XML files"
-msgstr "XML ファイル"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:246
 msgid "Format"
-msgstr "フォーマット"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:247
 msgid "To declare a record in XML, the **record** notation (using *<record>*) is recommended:"
-msgstr "XMLでレコードを宣言するには、 **record** ( *<record>* を使用) 記法を推奨します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:249
 msgid "Place ``id`` attribute before ``model``"
-msgstr "``model`` の前に ``id`` 属性を配置します"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:250
 msgid "For field declaration, ``name`` attribute is first. Then place the *value* either in the ``field`` tag, either in the ``eval`` attribute, and finally other attributes (widget, options, ...) ordered by importance."
-msgstr "フィールド宣言の場合、``name`` 属性が最初です。 次に、 ``field`` タグか ``eval`` 属性のどちらかに *value* を配置し、そして最後に重要性によって順序付けられた他の属性 (ウィジェット、オプション、...) を配置します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:255
 msgid "Try to group the record by model. In case of dependencies between action/menu/views, this convention may not be applicable."
-msgstr "モデル別にレコードをグループ化してみてください。アクション/メニュー/ビュー間の依存関係がある場合、この規則は適用できない場合があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:257
 msgid "Use naming convention defined at the next point"
-msgstr "次のポイントで定義された命名規則を使用します"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:258
 msgid "The tag *<data>* is only used to set not-updatable data with ``noupdate=1``. If there is only not-updatable data in the file, the ``noupdate=1`` can be set on the ``<odoo>`` tag and do not set a ``<data>`` tag."
-msgstr "タグ *<data>* は ``noupdate=1`` で更新不要なデータを設定する場合にのみ使用されます。 ファイル内に更新不要なデータがある場合は ``noupdate=1`` は ``<odoo>`` タグに設定できます。 ``<data>`` タグには設定できません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:276
 msgid "Odoo supports custom tags acting as syntactic sugar:"
-msgstr "Odooはシンタックス・シュガーとして機能するカスタムタグをサポートしています:"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:278
 msgid "menuitem: use it as a shortcut to declare a ``ir.ui.menu``"
-msgstr "menuitem: ``ir.ui.menu`` を宣言するためのショートカットとして使用します"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:279
 msgid "template: use it to declare a QWeb View requiring only the ``arch`` section of the view."
-msgstr "template: ビューの ``arch`` セクションのみが必要な QWeb ビューを宣言するために使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:280
 msgid "report: use to declare a :ref:`report action <reference/actions/report>`"
-msgstr "report: :ref:`レポート アクション <reference/actions/report>` の定義に使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:281
 msgid "act_window: use it if the record notation can't do what you want"
-msgstr "act_window: レコード表記を好まない場合に使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:283
 msgid "The 4 first tags are preferred over the *record* notation."
-msgstr "4 つの最初のタグは *record* 表記よりも好ましいです。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:287
 msgid "XML IDs and naming"
-msgstr "XML IDと命名"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:290
 msgid "Security, View and Action"
-msgstr "セキュリティ、ビュー、アクション"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:292
 msgid "Use the following pattern :"
-msgstr "次のパターンを使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:294
 msgid "For a menu: :samp:`{<model_name>}_menu`, or :samp:`{<model_name>}_menu_{do_stuff}` for submenus."
-msgstr "メニューの場合: :samp:`{<model_name>}_menu` 、または、サブメニューの場合、:samp:`{<model_name>}_menu_{do_stuff}` 。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:295
 msgid "For a view: :samp:`{<model_name>}_view_{<view_type>}`, where *view_type* is ``kanban``, ``form``, ``tree``, ``search``, ..."
-msgstr "ビューの場合: :samp:`{<model_name>}_view_{<view_type>}` 。この *view_type* は ``kanban``、``form``、``tree``、``search``、..."
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:297
 msgid "For an action: the main action respects :samp:`{<model_name>}_action`. Others are suffixed with :samp:`_{<detail>}`, where *detail* is a lowercase string briefly explaining the action. This is used only if multiple actions are declared for the model."
-msgstr "アクションの場合: メインのアクションは :samp:`{<model_name>}_action` を推奨します。その他のアクションには、サフィックス :samp:`_{<detail>}` を付け、 *detail* はアクションを簡潔に説明する小文字の文字列です。これは、モデルに対して複数のアクションが宣言されている場合にのみ使用されます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:301
 msgid "For window actions: suffix the action name by the specific view information like :samp:`{<model_name>}_action_view_{<view_type>}`."
-msgstr "ウィンドウアクションの場合: :samp:`{<model_name>}_action_view_{<view_type> }` のような特定のビュー情報のアクション名にサフィックスを付けます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:303
 msgid "For a group: :samp:`{<module_name>}_group_{<group_name>}` where *group_name* is the name of the group, generally 'user', 'manager', ..."
-msgstr "グループの場合: :samp:`{<module_name>}_group_{<group_name>}` とし、この *group_name* はグループの名前で、一般的に 'user' 、 'manager' などとします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:305
 msgid "For a rule: :samp:`{<model_name>}_rule_{<concerned_group>}` where *concerned_group* is the short name of the concerned group ('user' for the 'model_name_group_user', 'public' for public user, 'company' for multi-company rules, ...)."
-msgstr "ルールの場合: :samp:`{<model_name>}_rule_{<concerned_group>}` とし、この *concerned_group* は関係するグループの短い名前です ('model_name_group_user' の 'user' です。 パブリックユーザーなら `public` 、マルチカンパニーのルールなら `company` ) 。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:310
 msgid "Name should be identical to xml id with dots replacing underscores. Actions should have a real naming as it is used as display name."
-msgstr "名前は、アンダースコアの代わりにドットを使用したxml idと同一でなければなりません。アクションは、表示名として使用されるため、実際の名前を持つ必要があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:364
 msgid "Inheriting XML"
-msgstr "XMLを継承する"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:366
 msgid "Xml Ids of inheriting views should use the same ID as the original record. It helps finding all inheritance at a glance. As final Xml Ids are prefixed by the module that creates them there is no overlap."
-msgstr "ビューを継承する XML ID は、元のレコードと同じ ID を使用する必要があります。一目ですべての継承を見つけるのに役立ちます。 最終的な XML ID はそれらを作成するモジュールの前に追加されるため、重複はありません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:370
 msgid "Naming should contain an ``.inherit.{details}`` suffix to ease understanding the override purpose when looking at its name."
-msgstr "名前を見たときにオーバーライドの目的を理解しやすくするため、名前には ``.inherited from{details}`` サフィックスが含まれている必要があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:381
 msgid "New primary views do not require the inherit suffix as those are new records based upon the first one."
-msgstr "新しいプライマリビューでは、最初のレコードに基づく新しいレコードなので、継承サフィックスは必要ありません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:396
 #: ../../content/developer/reference/qweb.rst:332
@@ -7102,15 +7102,15 @@ msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:400
 msgid "Do not forget to read the :ref:`Security Pitfalls <reference/security/pitfalls>` section as well to write secure code."
-msgstr ":ref:`セキュリティの落とし穴 <reference/security/pitfalls>` セクションを読むことと、セキュアなコードを書くことを忘れないでください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:404
 msgid "PEP8 options"
-msgstr "PEP8 オプション"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:406
 msgid "Using a linter can help show syntax and semantic warnings or errors. Odoo source code tries to respect Python standard, but some of them can be ignored."
-msgstr "Linter を使用すると、構文やセマンティックな警告やエラーを表示するのに役立ちます。 Odoo ソースコードは Python 標準に準拠しようとしますが、その中には無視できるものもあります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:409
 msgid "E501: line too long"
@@ -7126,399 +7126,399 @@ msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:414
 msgid "Imports"
-msgstr "import文"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:415
 msgid "The imports are ordered as"
-msgstr "import文は次のような順番にします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:417
 msgid "External libraries (one per line sorted and split in python stdlib)"
-msgstr "外部ライブラリ (python stdlibで1行ずつソートされ分割されます)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:418
 msgid "Imports of ``odoo``"
-msgstr "``odoo`` のインポート"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:419
 msgid "Imports from Odoo modules (rarely, and only if necessary)"
-msgstr "Odoo モジュールをインポートします (まれに、必要な場合にのみ)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:421
 msgid "Inside these 3 groups, the imported lines are alphabetically sorted."
-msgstr "これらの3つのグループ内では、インポートされた行はアルファベット順に並べ替えられています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:439
 msgid "Idiomatics of Programming (Python)"
-msgstr "プログラミングの教養学 (Python)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:441
 msgid "Each python file should have ``# -*- coding: utf-8 -*-`` as first line."
-msgstr "各Pythonファイルは ``# -*- coding: utf-8 -*-`` を最初の行にします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:442
 msgid "Always favor *readability* over *conciseness* or using the language features or idioms."
-msgstr "*簡潔さ* や言語機能やイディオムを使うよりも、常に *可読性* を好みます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:443
 msgid "Don't use ``.clone()``"
-msgstr "``.clone()`` を使用しない"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:454
 msgid "Python dictionary : creation and update"
-msgstr "Python辞書: 生成と更新"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:479
 msgid "Use meaningful variable/class/method names"
-msgstr "意味のある変数/クラス/メソッド名を使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:480
 msgid "Useless variable : Temporary variables can make the code clearer by giving names to objects, but that doesn't mean you should create temporary variables all the time:"
-msgstr "役に立たない変数 : 一時的な変数は、オブジェクトに名前を付けることで、コードをより明確にすることができます。 しかしそれは一時的な変数を常に作るべきではありません"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:492
 msgid "Multiple return points are OK, when they're simpler"
-msgstr "複数の戻り値は、単純な場合はOKです"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:512
 msgid "Know your builtins : You should at least have a basic understanding of all the Python builtins (http://docs.python.org/library/functions.html)"
-msgstr "ビルドインのことを知る : Pythonビルドイン (http://docs.python.org/library/functions.html) について、少なくとも基本的な理解が必要です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:520
 msgid "Also, ``if 'key' in my_dict`` and ``if my_dict.get('key')`` have very different meaning, be sure that you're using the right one."
-msgstr "また、 ``if 'key' in my_dict`` と ``if my_dict.get('key')`` には大きく異なる意味があるため、正しい意味を使用していることを確認してください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:523
 msgid "Learn list comprehensions : Use list comprehension, dict comprehension, and basic manipulation using ``map``, ``filter``, ``sum``, ... They make the code easier to read."
-msgstr "リスト内包を学ぶ: リスト内包、辞書内包、``map`` 、 ``filter`` 、 ``sum`` などを利用した基本的な操作で、コードが読みやすくなります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:536
 msgid "Collections are booleans too : In python, many objects have \"boolean-ish\" value when evaluated in a boolean context (such as an if). Among these are collections (lists, dicts, sets, ...) which are \"falsy\" when empty and \"truthy\" when containing items:"
-msgstr "コレクションもブール型です: pythonでは、ブール型コンテキスト(ifなど) で評価されると、多くのオブジェクトが \"boolean-ish\" の値を持ちます。 これらの中には、空の場合は \"falsy\" 、項目を含む場合は \"truthy\" となるコレクション (lists, dicts, sets, ...) があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:547
 msgid "So, you can write ``if some_collection:`` instead of ``if len(some_collection):``."
-msgstr "ですから、``if len(some_collection):`` の代わりに ``if some_collection:`` を書くことができます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:550
 msgid "Iterate on iterables"
-msgstr "イテレータブルの反復処理"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:564
 msgid "Use dict.setdefault"
-msgstr "dict.setdefault を使用する"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:580
 msgid "As a good developer, document your code (docstring on methods, simple comments for tricky part of code)"
-msgstr "良い開発者として、あなたのコードを文書化します (メソッドのdocstring、コードのトリッキーな部分のためのシンプルなコメント)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:582
 msgid "In additions to these guidelines, you may also find the following link interesting: http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html (a little bit outdated, but quite relevant)"
-msgstr "これらのガイドラインに加えて、次のリンクも興味深いでしょう: http://python.net/~gooder/projects/pycon/pycon/2007/idiomatic/handout.html (少し古いが、かなり関連性がある)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:587
 msgid "Programming in Odoo"
-msgstr "Odoo でのプログラミング"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:589
 msgid "Avoid to create generators and decorators: only use the ones provided by the Odoo API."
-msgstr "ジェネレータやデコレータの作成は避けてください: Odoo APIが提供するもののみを使用してください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:591
 msgid "As in python, use ``filtered``, ``mapped``, ``sorted``, ... methods to ease code reading and performance."
-msgstr "pythonのように、``filtered``, ``maped``, ``sorted``, ... メソッドを使ってコードの読み取りとパフォーマンスを簡単にします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:596
 msgid "Make your method work in batch"
-msgstr "メソッドをバッチで機能させる"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:597
 msgid "When adding a function, make sure it can process multiple records by iterating on self to treat each record."
-msgstr "関数を追加する場合は、各レコードを扱うために self で繰り返すことによって複数のレコードを処理できることを確認してください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:606
 msgid "For performance issue, when developing a 'stat button' (for instance), do not perform a ``search`` or a ``search_count`` in a loop. It is recommended to use ``read_group`` method, to compute all value in only one request."
-msgstr "パフォーマンス上の問題に関して、例えば、 'stat button' を開発する場合は、ループ内で ``search`` や ``search_count`` を実行しないでください。 ``read_group`` メソッドを使用して、すべての値を1つのリクエストだけで計算することをお勧めします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:621
 msgid "Propagate the context"
-msgstr "コンテキストの伝搬"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:622
 msgid "The context is a ``frozendict`` that cannot be modified. To call a method with a different context, the ``with_context`` method should be used :"
-msgstr "コンテキストは変更できない ``frozendict`` です。異なるコンテキストを持つメソッドを呼び出すには、``with_context`` メソッドを使用する必要があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:631
 msgid "Passing parameter in context can have dangerous side-effects."
-msgstr "コンテキスト内でパラメータを渡すと、危険な副作用を引き起こす可能性があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:633
 msgid "Since the values are propagated automatically, some unexpected behavior may appear. Calling ``create()`` method of a model with *default_my_field* key in context will set the default value of *my_field* for the concerned model. But if during this creation, other objects (such as sale.order.line, on sale.order creation) having a field name *my_field* are created, their default value will be set too."
-msgstr "値は自動的に伝搬されるので、予期せぬ動作が現れる可能性があります。 *default_my_field* キーを持つモデルの ``create()`` メソッドをコンテキストで呼び出すと、当該モデルの *my_field* のデフォルト値が設定されます。しかし、この作成中に、 *my_field* というフィールド名を持つ他のオブジェクト (sale.order.lineなど、sale.orderの作成時) が作成されると、そのデフォルト値も設定されます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:639
 msgid "If you need to create a key context influencing the behavior of some object, choice a good name, and eventually prefix it by the name of the module to isolate its impact. A good example are the keys of ``mail`` module : *mail_create_nosubscribe*, *mail_notrack*, *mail_notify_user_signature*, ..."
-msgstr "オブジェクトの動作に影響を与える重要なコンテキストを作成する必要がある場合。 良い名前を選択し、最終的にはその影響を分離するためにモジュールの名前で接頭辞を付けます。 ``mail`` モジュールのキーは良い例です: *mail_create_nosubscribe*, *mail_notrack*, *mail_notify_user_signature* ..."
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:646
 msgid "Think extendable"
-msgstr "拡張可能であると考える"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:648
 msgid "Functions and methods should not contain too much logic: having a lot of small and simple methods is more advisable than having few large and complex methods. A good rule of thumb is to split a method as soon as it has more than one responsibility (see http://en.wikipedia.org/wiki/Single_responsibility_principle)."
-msgstr "関数とメソッドは、あまりにも多くのロジックを含めるべきではありません。小さくてシンプルなメソッドをたくさん持つことは、大規模で複雑なメソッドを持つよりもお勧めします。 目安としては、メソッドに複数の責任があるとすぐに分割することです(http://en.wikipedia.org/wiki/Single_responsity_principleを参照)。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:653
 msgid "Hardcoding a business logic in a method should be avoided as it prevents to be easily extended by a submodule."
-msgstr "ビジネスロジックをメソッドにハードコーディングすることは、サブモジュールによる拡張が容易にできなくなるため、避けるべきです。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:679
 msgid "The above code is over extendable for the sake of example but the readability must be taken into account and a tradeoff must be made."
-msgstr "上記のコードは、例示のために拡張しすぎていますが、可読性を考慮してトレードオフを行う必要があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:682
 msgid "Also, name your functions accordingly: small and properly named functions are the starting point of readable/maintainable code and tighter documentation."
-msgstr "また、関数に名前をつけてください。小さくて適切に名前を付けられた関数は、読み取り可能/メンテナンス可能なコードとより厳密なドキュメントの出発点です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:685
 msgid "This recommendation is also relevant for classes, files, modules and packages. (See also http://en.wikipedia.org/wiki/Cyclomatic_complexity)"
-msgstr "この推奨事項は、クラス、ファイル、モジュール、パッケージにも関係します(http://en.wikipedia.org/wiki/Cyclomatic_complexityも参照してください)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:690
 msgid "Never commit the transaction"
-msgstr "トランザクションをコミットしない"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:691
 msgid "The Odoo framework is in charge of providing the transactional context for all RPC calls. The principle is that a new database cursor is opened at the beginning of each RPC call, and committed when the call has returned, just before transmitting the answer to the RPC client, approximately like this:"
-msgstr "Odooフレームワークは、すべてのRPC呼び出しのトランザクションコンテキストを提供することを担当しています。 原則は、各 RPC 呼び出しの開始時に新しいデータベースカーソルが開かれることです。 応答をRPCクライアントに送信する直前に、次のように呼び出しが戻ったときにコミットします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:712
 msgid "If any error occurs during the execution of the RPC call, the transaction is rolled back atomically, preserving the state of the system."
-msgstr "RPC呼び出しの実行中にエラーが発生した場合、トランザクションはアトミックにロールバックされ、システムの状態が保たれます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:715
 msgid "Similarly, the system also provides a dedicated transaction during the execution of tests suites, so it can be rolled back or not depending on the server startup options."
-msgstr "同様に、システムはテストスイートの実行中に専用のトランザクションを提供します。 サーバーの起動オプションに応じてロールバックすることもできます"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:719
 msgid "The consequence is that if you manually call ``cr.commit()`` anywhere there is a very high chance that you will break the system in various ways, because you will cause partial commits, and thus partial and unclean rollbacks, causing among others:"
-msgstr "その結果、手動で ``cr.commit()`` を任意の場所で呼び出すと、非常に高い確率で、様々な方法でシステムを破壊することになります。なぜなら、部分的なコミットが発生し、その結果、部分的でクリーンでないロールバックが発生するからです。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:724
 msgid "inconsistent business data, usually data loss"
-msgstr "一貫性のないビジネスデータ、通常は、データの損失です"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:725
 msgid "workflow desynchronization, documents stuck permanently"
-msgstr "ワークフローの非同期化、ドキュメントは永久にスタックされます"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:726
 msgid "tests that can't be rolled back cleanly, and will start polluting the database, and triggering error (this is true even if no error occurs during the transaction)"
-msgstr "きれいに巻き戻すことができず、データベースを汚染し始めます そしてエラーを引き起こします(トランザクション中にエラーが発生しなくても、これは真です)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:737
 msgid "Here is the very simple rule:"
-msgstr "ここに非常に簡単なルールがあります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:731
 msgid "You should **NEVER** call ``cr.commit()`` yourself, **UNLESS** you have created your own database cursor explicitly! And the situations where you need to do that are exceptional!"
-msgstr "自分のデータベースカーソルを明示的に作成 **しない限り** 、 ``cr.commit()`` を自分で呼び出しては **いけません**。そして、そのようなことが必要な状況は例外的です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:735
 msgid "And by the way if you did create your own cursor, then you need to handle error cases and proper rollback, as well as properly close the cursor when you're done with it."
-msgstr "ところで、もし独自のカーソルを作成したのであれば、エラーケースや適切なロールバックを処理する必要がありますし、使い終わったらカーソルを適切に閉じる必要があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:739
 msgid "And contrary to popular belief, you do not even need to call ``cr.commit()`` in the following situations: - in the ``_auto_init()`` method of an *models.Model* object: this is taken care of by the addons initialization method, or by the ORM transaction when creating custom models - in reports: the ``commit()`` is handled by the framework too, so you can update the database even from within a report - within *models.Transient* methods: these methods are called exactly like regular *models.Model* ones, within a transaction and with the corresponding ``cr.commit()/rollback()`` at the end - etc. (see general rule above if you have in doubt!)"
-msgstr "また、一般的な考えとは異なり、次のような状況では ``cr.commit()`` を呼び出す必要はありません。- *models.Model* オブジェクトの ``_auto_init()`` メソッド内: これはアドオンの初期化メソッドや、カスタムモデルを作成する際のORMのトランザクションによって処理されます - レポート内: ``commit()`` はフレームワークによって処理されるので、レポート内からでもデータベースを更新することができます - **models.Transient** メソッド内: これらのメソッドは、通常の *models.Model* のメソッドと全く同じように、トランザクション内で呼び出され、最後に対応する ``cr.commit()/rollback()`` が行われます - など。(疑問がある場合は、前述の一般的なルールを参照してください!)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:751
 msgid "All ``cr.commit()`` calls outside of the server framework from now on must have an **explicit comment** explaining why they are absolutely necessary, why they are indeed correct, and why they do not break the transactions. Otherwise they can and will be removed !"
-msgstr "今後、サーバーフレームワーク以外のすべての ``cr.commit()`` の呼び出しには、なぜそれが絶対に必要なのか、なぜそれが本当に正しいのか、なぜそれがトランザクションを壊さないのかを説明する明確なコメントが必要です。そうしないと、削除されてしまいます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:758
 msgid "Use translation method correctly"
-msgstr "翻訳メソッドを正しく使用する"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:760
 msgid "Odoo uses a GetText-like method named \"underscore\" ``_( )`` to indicate that a static string used in the code needs to be translated at runtime using the language of the context. This pseudo-method is accessed within your code by importing as follows:"
-msgstr "Odooは \"アンダースコア\" ``_( )`` という名前の GetText のようなメソッドを使用して、コード内で使用されている静的文字列が実行時にコンテキストの言語を使用して翻訳される必要があることを示します。この疑似メソッドは、コード内で次のようにインポートすることでアクセスできます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:769
 msgid "A few very important rules must be followed when using it, in order for it to work and to avoid filling the translations with useless junk."
-msgstr "このメソッドを使用する際には、いくつかの非常に重要なルールに従わなければなりません。それは、このメソッドを機能させ、無駄なジャンクで翻訳を埋め尽くすことを避けるためです。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:772
 msgid "Basically, this method should only be used for static strings written manually in the code, it will not work to translate field values, such as Product names, etc. This must be done instead using the translate flag on the corresponding field."
-msgstr "基本的に、このメソッドはコード内で手動で書かれた静的な文字列にのみ使用し、商品名などのフィールド値を翻訳することはできません。これは、対応するフィールドの translate フラグを使用して行う必要があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:777
 msgid "The method accepts optional positional or named parameter The rule is very simple: calls to the underscore method should always be in the form ``_('literal string')`` and nothing else:"
-msgstr "このメソッドには、オプションで位置指定または名前指定のパラメータを指定できます。 ルールは非常にシンプルで、アンダースコア・メソッドの呼び出しは常に ``_('literal string')`` という形式で、それ以外のものは指定してはいけません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:820
 msgid "Also, keep in mind that translators will have to work with the literal values that are passed to the underscore function, so please try to make them easy to understand and keep spurious characters and formatting to a minimum. Translators must be aware that formatting patterns such as ``%s`` or ``%d``, newlines, etc. need to be preserved, but it's important to use these in a sensible and obvious manner:"
-msgstr "また、翻訳者はアンダースコア関数に渡されたリテラル値を扱わなければならないことを念頭に置いてください。そのため、理解しやすいようにして、疑わしい文字やフォーマットを最小限に抑えるようにしてください。翻訳者は、 ``%s`` や ``%d`` 、改行などのフォーマットパターンを保存する必要があることを認識する必要がありますが、これらを分別して明白な方法で使用することが重要です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:840
 msgid "In general in Odoo, when manipulating strings, prefer ``%`` over ``.format()`` (when only one variable to replace in a string), and prefer ``%(varname)`` instead of position (when multiple variables have to be replaced). This makes the translation easier for the community translators."
-msgstr "一般的にOdooでは、文字列を操作する際、 ``.format()`` よりも ``%`` を優先し (文字列の中で置換する変数が1つだけの場合) 、位置指定の代わりに ``%(varname)`` を優先します (複数の変数を置換しなければならない場合) 。これにより、コミュニティの翻訳者が翻訳をしやすくなります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:847
 msgid "Symbols and Conventions"
-msgstr "記号と表記法"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:857
 msgid "Model name (using the dot notation, prefix by the module name) :"
-msgstr "モデル名（ドット表記、モジュール名をプレフィックスとする） :"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:850
 msgid "When defining an Odoo Model : use singular form of the name (*res.partner* and *sale.order* instead of *res.partnerS* and *saleS.orderS*)"
-msgstr "Odooモデルを定義する場合：名前の単数形を使用する（res.partnerSとsaleS.orderSの代わりにres.partnerとsale.order）。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:852
 msgid "When defining an Odoo Transient (wizard) : use ``<related_base_model>.<action>`` where *related_base_model* is the base model (defined in *models/*) related to the transient, and *action* is the short name of what the transient do. Avoid the *wizard* word. For instance : ``account.invoice.make``, ``project.task.delegate.batch``, ..."
-msgstr "Odooトランジェントを定義する場合（ウィザード）: ``<related_base_model>.<action>`` を使用してください。ここで *related_base_model* はトランジェントに関連するベースモデル (*models/* で定義) であり、 *action* はトランジェントが行うことを示した短い名前です。 *wizard* ワードは避けてください。例： ``account.invoice.make`` 、 ``project.task.delegate.batch`` 、..."
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:856
 msgid "When defining *report* model (SQL views e.i.) : use ``<related_base_model>.report.<action>``, based on the Transient convention."
-msgstr "*report* モデル（SQLビューなど）を定義する際には、Transientの規約に基づき、 ``<related_base_model>.report.<action>`` を使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:859
 msgid "Odoo Python Class : use camelcase (Object-oriented style)."
-msgstr "Odoo Python クラス : キャメルケースを使用（オブジェクト指向スタイル）。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:870
 msgid "Variable name :"
-msgstr "変数名："
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:868
 msgid "use camelcase for model variable"
-msgstr "モデル変数にはキャメルケースを使用"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:869
 msgid "use underscore lowercase notation for common variable."
-msgstr "共通変数にはアンダースコアの小文字表記を使用。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:870
 msgid "suffix your variable name with *_id* or *_ids* if it contains a record id or list of id. Don't use ``partner_id`` to contain a record of res.partner"
-msgstr "レコードのIDやIDのリストを含む場合は、変数名の最後に *_id* または *_ids* を付けます。res.partnerのレコードを含む場合は ``partner_id`` を使用しないでください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:878
 msgid "``One2Many`` and ``Many2Many`` fields should always have *_ids* as suffix (example: sale_order_line_ids)"
-msgstr "``One2Many`` および ``Many2Many`` フィールドは、常に *_ids* を接尾辞として持つ必要があります（例：sale_order_line_ids）。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:879
 msgid "``Many2One`` fields should have *_id* as suffix (example : partner_id, user_id, ...)"
-msgstr "Many2Oneフィールドは *_id* を接尾辞として持つべきである（例：partner_id, user_id, ...)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:889
 msgid "Method conventions"
-msgstr "メソッドの規約"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:881
 msgid "Compute Field : the compute method pattern is *_compute_<field_name>*"
-msgstr "フィールドの計算：計算メソッドのパターンは *_compute_<field_name>* です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:882
 msgid "Search method : the search method pattern is *_search_<field_name>*"
-msgstr "検索メソッド：検索メソッドのパターンは *_search_<field_name>* です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:883
 msgid "Default method : the default method pattern is *_default_<field_name>*"
-msgstr "デフォルト・メソッド：デフォルト・メソッドのパターンは *_default_<field_name>* です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:884
 msgid "Selection method: the selection method pattern is *_selection_<field_name>*"
-msgstr "セレクション・メソッド：セレクション・メソッドのパターンは *_selection_<field_name>* です"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:885
 msgid "Onchange method : the onchange method pattern is *_onchange_<field_name>*"
-msgstr "Onchangeメソッド：onchangeメソッドのパターンは *_onchange_<field_name>* です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:886
 msgid "Constraint method : the constraint method pattern is *_check_<constraint_name>*"
-msgstr "Constraintメソッド：制約メソッドのパターンは *_check_<constraint_name>* です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:887
 msgid "Action method : an object action method is prefix with *action_*. Since it uses only one record, add ``self.ensure_one()`` at the beginning of the method."
-msgstr "アクションメソッド : オブジェクトのアクションメソッドは *action_* をプレフィックスとします。1つのレコードしか使わないので、メソッドの先頭に ``self.ensure_one()`` を追加します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:900
 msgid "In a Model attribute order should be"
-msgstr "モデルの属性の順番は次のようにします。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:892
 msgid "Private attributes (``_name``, ``_description``, ``_inherit``, ...)"
-msgstr "プライベート属性 (_name, _description, _inherit, ...)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:893
 msgid "Default method and ``_default_get``"
-msgstr "デフォルトメソッドと ``_default_get``"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:894
 msgid "Field declarations"
-msgstr "フィールド宣言"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:895
 msgid "Compute, inverse and search methods in the same order as field declaration"
-msgstr "フィールド宣言と同じ順序で、計算メソッド、逆計算メソッド、検索メソッド"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:896
 msgid "Selection method (methods used to return computed values for selection fields)"
-msgstr "セレクション・メソッド (セレクション・フィールドの計算値を返すためのメソッド)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:897
 msgid "Constrains methods (``@api.constrains``) and onchange methods (``@api.onchange``)"
-msgstr "Constrains メソッド (``@api.constrains``) とonchange メソッド (``@api.onchange``)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:898
 msgid "CRUD methods (ORM overrides)"
-msgstr "CRUDメソッド(ORMのオーバーライド)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:899
 msgid "Action methods"
-msgstr "アクション・メソッド"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:900
 msgid "And finally, other business methods."
-msgstr "そして最後に、その他のビジネス・メソッド。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:956
 msgid "Javascript and CSS"
-msgstr "JavascriptとCSS"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:959
 msgid "Static files organization"
-msgstr "静的ファイルの構成"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:961
 msgid "Odoo addons have some conventions on how to structure various files. We explain here in more details how web assets are supposed to be organized."
-msgstr "Odooのアドオンには、様々なファイルの構成方法に関する規約があります。ここでは、Webアセットがどのように構成されるべきかをより詳しく説明します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:964
 msgid "The first thing to know is that the Odoo server will serve (statically) all files located in a *static/* folder, but prefixed with the addon name. So, for example, if a file is located in *addons/web/static/src/js/some_file.js*, then it will be statically available at the url *your-odoo-server.com/web/static/src/js/some_file.js*"
-msgstr "最初に知っておくべきことは、Odooサーバーは、 *static/* フォルダにあるすべてのファイルを（静的に）提供するということですが、その際、プレフィックスとしてアドオン名を付けます。例えば、あるファイルが *addons/web/static/src/js/some_file.js* にある場合、そのファイルは *your-odoo-server.com/web/static/src/js/some_file.js* という Url で静的に利用できます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:969
 msgid "The convention is to organize the code according to the following structure:"
-msgstr "規約では、次のような構造でコードを整理しています。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:971
 msgid "*static*: all static files in general"
-msgstr "*static*: すべての静的ファイル全般"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:973
 msgid "*static/lib*: this is the place where js libs should be located, in a sub folder. So, for example, all files from the *jquery* library are in *addons/web/static/lib/jquery*"
-msgstr "*static/lib*: サブフォルダ内にjs libsを配置する場所です。例えば、 *jquery* ライブラリのすべてのファイルは *addsons/web/static/lib/jquery* にあります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:975
 msgid "*static/src*: the generic static source code folder"
-msgstr "*static/src*: 一般的な静的ソースコードのフォルダです。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:977
 msgid "*static/src/css*: all css files"
-msgstr "*static/src/css*: すべての Css ファイル"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:978
 msgid "*static/src/fonts*"
@@ -7534,67 +7534,67 @@ msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:982
 msgid "*static/src/js/tours*: end user tour files (tutorials, not tests)"
-msgstr "*static/src/js/tours*: エンドユーザーツアーファイル(テストではなくチュートリアル)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:984
 msgid "*static/src/scss*: scss files"
-msgstr "*static/src/scss*: scss ファイル"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:985
 msgid "*static/src/xml*: all qweb templates that will be rendered in JS"
-msgstr "*static/src/xml*: JSでレンダリングされるすべてのqwebテンプレート"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:987
 msgid "*static/tests*: this is where we put all test related files."
-msgstr "*static/tests*: ここではテスト関連のファイルをすべて配置します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:989
 msgid "*static/tests/tours*: this is where we put all tour test files (not tutorials)."
-msgstr "*static/tests/tours*: ここでは、ツアーのテストファイル(チュートリアルではありません) をすべて配置します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:992
 msgid "Javascript coding guidelines"
-msgstr "Javascriptコーディングガイドライン"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:994
 msgid "``use strict;`` is recommended for all javascript files"
-msgstr "``use strict;`` はすべての javascript ファイルに推奨されます"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:995
 msgid "Use a linter (jshint, ...)"
-msgstr "Linter (jshint, ...) を使用する"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:996
 msgid "Never add minified Javascript Libraries"
-msgstr "圧縮されたJavascriptライブラリを追加しない"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:997
 msgid "Use camelcase for class declaration"
-msgstr "クラス宣言にキャメルケースを使用する"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:999
 msgid "More precise JS guidelines are detailed in the `github wiki  <https://github.com/odoo/odoo/wiki/Javascript-coding-guidelines>`_. You may also have a look at existing API in Javascript by looking Javascript References."
-msgstr "より正確な JS のガイドラインは `github wiki  <https://github.com/odoo/odoo/wiki/Javascript-coding-guidelines>`_ に詳述されています。 Javascript リファレンスを参照することで、Javascript の既存の API を確認することもできます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1004
 msgid "CSS coding guidelines"
-msgstr "CSS コーディングガイドライン"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1006
 msgid "Prefix all your classes with *o_<module_name>* where *module_name* is the technical name of the module ('sale', 'im_chat', ...) or the main route reserved by the module (for website module mainly, i.e. : 'o_forum' for *website_forum* module). The only exception for this rule is the webclient: it simply uses *o_* prefix."
-msgstr "すべてのクラスに *o_<module_name>* というプレフィックスをつけます。この *module_name* は、モジュールの技術的な名前 ('sale', 'im_chat', ...) 、またはモジュールが予約するメインルート ( 主にwebsiteモジュールの場合、例 : *website_forum* モジュールの 'o_forum') です。このルールの唯一の例外は webclient です：単に *o_* プレフィックスを使用します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1011
 msgid "Avoid using *id* tag"
-msgstr "*id* タグの使用を避ける"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1012
 msgid "Use Bootstrap native classes"
-msgstr "Bootstrapネイティブクラスを使用する"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1013
 msgid "Use underscore lowercase notation to name class"
-msgstr "クラス名にはアンダースコア・小文字の表記を使う"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1018
 msgid "Git"
@@ -7602,135 +7602,135 @@ msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1021
 msgid "Configure your git"
-msgstr "Git の設定"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1023
 msgid "Based on ancestral experience and oral tradition, the following things go a long way towards making your commits more helpful:"
-msgstr "先祖代々の経験と口伝によれば、次のようなことをしておくとコミットをより便利にすることができます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1026
 msgid "Be sure to define both the user.email and user.name in your local git config"
-msgstr "ローカルの git config で、user.email と user.name の両方を必ず定義しておきましょう。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1032
 msgid "Be sure to add your full name to your Github profile here. Please feel fancy and add your team, avatar, your favorite quote, and whatnot ;-)"
-msgstr "Github のプロフィールには必ずフルネームを追加しましょう。あなたのチームやアバター、お気に入りの言葉などを追加してみてください ;-)"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1036
 msgid "Commit message structure"
-msgstr "コミットメッセージの構造"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1038
 msgid "Commit message has four parts: tag, module, short description and full description. Try to follow the preferred structure for your commit messages"
-msgstr "コミットメッセージは、タグ、モジュール、短い説明、完全な説明の4つの部分で構成されています。コミットメッセージの構成は次のようにしてください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1061
 msgid "Tag and module name"
-msgstr "タグとモジュール名"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1063
 msgid "Tags are used to prefix your commit. They should be one of the following"
-msgstr "タグは、コミットのプレフィックスに使用されます。次のいずれかにする必要があります。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1065
 msgid "**[FIX]** for bug fixes: mostly used in stable version but also valid if you are fixing a recent bug in development version;"
-msgstr "**[FIX]** バグ修正: ほとんどが安定版で使用されていますが、開発版で最新のバグを修正している場合にも有効です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1067
 msgid "**[REF]** for refactoring: when a feature is heavily rewritten;"
-msgstr "**[REF]** リファクタリング: 機能が大幅に書き換えられたとき;"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1068
 msgid "**[ADD]** for adding new modules;"
-msgstr "**[ADD]** 新しいモジュールを追加したため"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1069
 msgid "**[REM]** for removing resources: removing dead code, removing views, removing modules, ...;"
-msgstr "**[REM]** リソースを削除: デッドコードを削除、ビューを削除、モジュールを削除など"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1071
 msgid "**[REV]** for reverting commits: if a commit causes issues or is not wanted reverting it is done using this tag;"
-msgstr "**[REV]** コミットを元に戻す: コミットが問題を引き起こした場合、または復元が望まれていない場合はこのタグを使用して行われます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1073
 msgid "**[MOV]** for moving files: use git move and do not change content of moved file otherwise Git may loose track and history of the file; also used when moving code from one file to another;"
-msgstr "**[MOV]** ファイルを移動するには: git move を使用し、移動されたファイルの内容を変更しないでください。そうしないと、Git はファイルの追跡と履歴を失う可能性があります。 あるファイルから別のファイルにコードを移動するときにも使用されます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1076
 msgid "**[REL]** for release commits: new major or minor stable versions;"
-msgstr "**[REL]** リリースコミット: 新しいメジャーまたはマイナーの安定版"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1077
 msgid "**[IMP]** for improvements: most of the changes done in development version are incremental improvements not related to another tag;"
-msgstr "**[IMP]** 改善のため：開発バージョンで行われたほとんどの変更は、他のタグとは関係のないインクリメンタルな改善です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1079
 msgid "**[MERGE]** for merge commits: used in forward port of bug fixes but also as main commit for feature involving several separated commits;"
-msgstr "**[MERGE]** マージコミット: バグ修正のフォワードポートに使用されますが、複数の分割コミットを含む機能のメインコミットとしても使用されます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1081
 msgid "**[CLA]** for signing the Odoo Individual Contributor License;"
-msgstr "**[CLA]** Odoo 個々の貢献者ライセンスに署名するため;"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1082
 msgid "**[I18N]** for changes in translation files;"
-msgstr "**[I18N]** 翻訳ファイルの変更;"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1084
 msgid "After tag comes the modified module name. Use the technical name as functional name may change with time. If several modules are modified, list them or use various to tell it is cross-modules. Unless really required or easier avoid modifying code across several modules in the same commit. Understanding module history may become difficult."
-msgstr "タグの後には、変更されたモジュール名を記載します。機能的な名前は時間とともに変わる可能性があるので、技術的な名前を使用してください。複数のモジュールが変更されている場合は、それらをリストアップするか、クロスモジュールであることを示すために色々なものを使用してください。本当に必要な場合や簡単な場合を除いて、同じコミットで複数のモジュールにまたがるコードを修正することは避けてください。モジュールの歴史を理解するのが難しくなるかもしれません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1091
 msgid "Commit message header"
-msgstr "コミットメッセージヘッダー"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1093
 msgid "After tag and module name comes a meaningful commit message header. It should be self explanatory and include the reason behind the change. Do not use single words like \"bugfix\" or \"improvements\". Try to limit the header length to about 50 characters for readability."
-msgstr "タグとモジュール名には意味のあるコミットメッセージヘッダーが表示されます。変更の背後にある理由を説明する必要があります。 \"bugfix\" や \"improvements\" のような単語は使用しないでください。読みやすさのために、ヘッダの長さを約50文字に制限してください。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1098
 msgid "Commit message header should make a valid sentence once concatenated with ``if applied, this commit will <header>``. For example ``[IMP] base: prevent to archive users linked to active partners`` is correct as it makes a valid sentence ``if applied, this commit will prevent users to archive...``."
-msgstr "コミットメッセージヘッダは ``if applied, this commit will <header>`` と連結されると有効な文になるようにする必要があります。 例えば、 ``[IMP] base: prevent to archive users linked to active partners``　は、 ``if applied, this commit will prevent users to archive...`` と有効な文になるので正しいです。（訳：適合された場合、このコミットは、ユーザーがアーカイブするのを防ぎます）"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1104
 msgid "Commit message full description"
-msgstr "コミットメッセージの詳細説明"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1106
 msgid "In the message description specify the part of the code impacted by your changes (module name, lib, transversal object, ...) and a description of the changes."
-msgstr "メッセージの説明では、変更の影響を受けるコードの部分（モジュール名、lib、transversal objectなど）と、変更内容の説明を指定します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1109
 msgid "First explain WHY you are modifying code. What is important if someone goes back to your commit in about 4 decades (or 3 days) is why you did it. It is the purpose of the change."
-msgstr "まず、なぜコードを変更したのかを説明します。40年後（または3日後）に誰かがあなたのコミットを見返したときに重要なのは、なぜそれを行ったのかということです。それが変更の目的です。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1113
 msgid "What you did can be found in the commit itself. If there was some technical choices involved it is a good idea to explain it also in the commit message after the why. For Odoo R&D developers \"PO team asked me to do it\" is not a valid why, by the way."
-msgstr "あなたが何をしたかは、コミット自体に書かれています。技術的な選択があった場合は、理由の後のコミットメッセージで説明するのが良いでしょう。ちなみに、OdooのR&D開発者にとっては、 \"POチームに頼まれたから\" という理由は有効ではありません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1117
 msgid "Please avoid commits which simultaneously impact multiple modules. Try to split into different commits where impacted modules are different. It will be helpful if we need to revert changes in a given module separately."
-msgstr "複数のモジュールに同時に影響を与えるコミットは避けてください。影響を受けるモジュールが異なる場合は、異なるコミットに分けるようにしてください。これは、あるモジュールの変更を個別に戻す必要がある場合に役立ちます。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1121
 msgid "Don't hesitate to be a bit verbose. Most people will only see your commit message and judge everything you did in your life just based on those few sentences. No pressure at all."
-msgstr "多少冗長になってもかまわないでしょう。ほとんどの人はあなたのコミットメッセージだけを見て、その数行の文章だけであなたの人生のすべてを判断するでしょう。プレッシャーは全くありません。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1125
 msgid "**You spend several hours, days or weeks working on meaningful features. Take some time to calm down and write clear and understandable commit messages.**"
-msgstr "**あなたは意味のある機能に数時間、数日、数週間かけて取り組んでいます。心を落ち着かせて、わかりやすいコミットメッセージを書きましょう。**"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1128
 msgid "If you are an Odoo R&D developer the WHY should be the purpose of the task you are working on. Full specifications make the core of the commit message. **If you are working on a task that lacks purpose and specifications please consider making them clear before continuing.**"
-msgstr "あなたがOdoo R&Dの開発者であれば、ナゼ(WHY) はあなたが取り組んでいるタスクの目的であるべきです。完全な仕様がコミットメッセージの核となります。 **もし、目的や仕様が不十分なタスクに取り組んでいる場合は、続ける前にそれらを明確にすることを検討してください。**"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1133
 msgid "Finally here are some examples of correct commit messages :"
-msgstr "最後に、正しいコミットメッセージの例をいくつかご紹介します。"
+msgstr ""
 
 #: ../../content/developer/reference/guidelines.rst:1156
 msgid "Use the long description to explain the *why* not the *what*, the *what* can be seen in the diff"
-msgstr "長い説明文を使って、WhatではなくWhyを説明します。Whatはdiffで見ることができます。"
+msgstr ""
 
 #: ../../content/developer/reference/http.rst:6
 msgid "Web Controllers"
@@ -8332,147 +8332,147 @@ msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:79
 msgid "Assets Management"
-msgstr "Assetの管理"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:81
 msgid "Managing assets in Odoo is not as straightforward as it is in some other apps. One of the reason is that we have a variety of situations where some, but not all the assets are required.  For example, the needs of the web client, the point of sale, the website or even the mobile application are different.  Also, some assets may be large, but are seldom needed.  In that case, we sometimes want them to be loaded lazily."
-msgstr "Odooでのasset管理は、他のアプリのように簡単ではありません。その理由の一つは、すべてのassetではなく、いくつかのassetが必要とされる様々な状況があることです。例えば、Web client、Pos、Webサイト、さらにはモバイルアプリケーションのニーズはそれぞれ異なります。また、assetが大きかったりするのに、めったに必要とされないものもあります。そのような場合、それらを柔軟にロードしたいと思うことがあります。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:88
 msgid "The main idea is that we define a set of *bundles* in xml.  A bundle is here defined as a collection of files (javascript, css, scss). In Odoo, the most important bundles are defined in the file *addons/web/views/webclient_templates.xml*. It looks like this:"
-msgstr "主なアイデアは、 *バンドル* のセットをxmlで定義することです。バンドルは、ファイル(javascript、css、scss) の集合体として定義されます。Odooでは、最も重要なバンドルは、 *addons/web/views/webclient_templates.xml* というファイルで定義されています。これは、次のようになっています。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:103
 msgid "The files in a bundle can then be inserted into a template by using the *t-call-assets* directive:"
-msgstr "バンドル内のファイルは、 *t-call-assets* ディレクティブを使って、テンプレートに挿入することができます。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:111
 msgid "Here is what happens when a template is rendered by the server with these directives:"
-msgstr "これらのディレクティブを使用して、テンプレートがサーバーでレンダリングされるには、次のように動作します。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:113
 msgid "all the *scss* files described in the bundle are compiled into css files. A file named *file.scss* will be compiled in a file named *file.scss.css*."
-msgstr "バンドルに記述されているすべての *scss* ファイルがcssファイルにコンパイルされます。 *file.scss* という名前のファイルは、 *file.scss.css* という名前のファイルにコンパイルされます。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:116
 msgid "if we are in *debug=assets* mode"
-msgstr "*debug=assets* モードになっている場合"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:118
 msgid "the *t-call-assets* directive with the *t-js* attribute set to false will be replaced by a list of stylesheet tags pointing to the css files"
-msgstr "*t-js* 属性が false に設定されている *t-call-assets* ディレクティブは，css ファイルを指すスタイルシートタグのリストに置き換えられます。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:121
 msgid "the *t-call-assets* directive with the *t-css* attribute set to false will be replaced by a list of script tags pointing to the js files"
-msgstr "*t-css* 属性を false に設定した *t-call-assets* ディレクティブは、js ファイルを指す script タグのリストに置き換えられます。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:124
 msgid "if we are not in *debug=assets* mode"
-msgstr "*debug=assets* モードでない場合"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:126
 msgid "the css files will be concatenated and minified, then a stylesheet tag is generated"
-msgstr "css ファイルは連結されて最小化され，スタイルシートタグが生成されます。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:129
 msgid "the js files are concatenated and minified, then a script tag is generated"
-msgstr "jsファイルは連結されて最小化され、スクリプトタグが生成されます。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:131
 msgid "Note that the assets files are cached, so in theory, a browser should only load them once."
-msgstr "なお、アセットファイルはキャッシュされるので、理論上はブラウザが一度だけ読み込むことになります。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:135
 msgid "Main bundles"
-msgstr "主なバンドル"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:136
 msgid "When the Odoo server is started, it checks the timestamp of each file in a bundle, and if necessary, will create/recreate the corresponding bundles."
-msgstr "Odooサーバーの起動時には、バンドル内の各ファイルのタイムスタンプを確認し、必要に応じて対応するバンドルの作成/再作成を行います。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:139
 msgid "Here are some important bundles that most developers will need to know:"
-msgstr "ここでは、ほとんどの開発者が知っておく必要のある重要なバンドルを紹介します。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:141
 msgid "*web.assets_common*: this bundle contains most assets which are common to the web client, the website, and also the point of sale. This is supposed to contain lower level building blocks for the odoo framework.  Note that it contains the *boot.js* file, which defines the odoo module system."
-msgstr "*web.assets_common*: このバンドルには、Webクライアント、Webサイト、およびPOSに共通するほとんどのアセットが含まれています。このバンドルは、odooフレームワークの低レベルの構成要素を含んでいると考えられます。odoo モジュールシステムを定義する *boot.js* ファイルも含まれています。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:146
 msgid "*web.assets_backend*: this bundle contains the code specific to the web client (notably the web client/action manager/views)"
-msgstr "*web.assets_backend*: このバンドルには、Webクライアントに特化したコードが含まれています(特に、Webクライアント/アクションマネージャ/ビュー)。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:149
 msgid "*web.assets_frontend*: this bundle is about all that is specific to the public website: ecommerce, forum, blog, event management, ..."
-msgstr "*web.assets_frontend*: このバンドルには、eコマース、フォーラム、ブログ、イベント管理など、公開用のWebサイトに特化したものが含まれています。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:154
 msgid "Adding files in an asset bundle"
-msgstr "Assetバンドルへのファイルの追加"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:156
 msgid "The proper way to add a file located in *addons/web* to a bundle is simple: it is just enough to add a *script* or a *stylesheet* tag to the bundle in the file *webclient_templates.xml*.  But when we work in a different addon, we need to add a file from that addon.  In that case, it should be done in three steps:"
-msgstr "*addons/web* にあるファイルをバンドルに追加する適切な方法はシンプルで、 *webclient_templates.xml* ファイル内の *script* や *stylesheet* といったタグをバンドルとして追加するだけで十分です。しかし、別のアドオンで動作させる場合は、そのアドオンにファイルを追加する必要があります。その場合には、3つのステップで行います。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:161
 msgid "add a *assets.xml* file in the *views/* folder"
-msgstr "*views/* フォルダに *assets.xml* ファイルを追加する。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:162
 msgid "add the string 'views/assets.xml' in the 'data' key in the manifest file"
-msgstr "マニフェストファイルの 'data' キーに 'views/assets.xml' という文字列を追加する。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:163
 msgid "create an inherited view of the desired bundle, and add the file(s) with an xpath expression. For example,"
-msgstr "目的とするバンドルが継承されたビューを作成し、xpath式でファイルを追加する。例えば、次のようになります。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:178
 msgid "Note that the files in a bundle are all loaded immediately when the user loads the odoo web client.  This means that the files are transferred through the network everytime (except when the browser cache is active).  In some cases, it may be better to lazyload some assets.  For example, if a widget requires a large library, and that widget is not a core part of the experience, then it may be a good idea to only load the library when the widget is actually created. The widget class has actually builtin support just for this use case. (see section :ref:`reference/javascript_reference/qweb`)"
-msgstr "バンドル内のファイルは、ユーザーが odoo Webクライアントをロードしたときに直ちにすべて読み込まれることに注意してください。つまり、ファイルは毎回ネットワークを介して転送されることになります(ブラウザのキャッシュが有効な場合を除く) 。場合によっては、一部のassetを柔軟にロードした方が良いこともあります。例えば、ウィジェットが大規模なライブラリを必要とし、そのウィジェットがエクスペリエンスのコア部分ではない場合、ウィジェットが実際に作成されるときにのみライブラリをロードするのが良いでしょう。ウィジェットクラスは、実際、このようなユースケースをサポートできるように組み込まれています( :ref:`reference/javascript_reference/qweb` を参照してください) 。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:188
 msgid "What to do if a file is not loaded/updated"
-msgstr "ファイルが読み込まれない／更新されない場合の対処法"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:190
 msgid "There are many different reasons why a file may not be properly loaded.  Here are a few things you can try to solve the issue:"
-msgstr "ファイルが正しく読み込まれない理由はさまざまです。ここでは、その問題を解決するために試せることをいくつかご紹介します。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:193
 msgid "once the server is started, it does not know if an asset file has been modified.  So, you can simply restart the server to regenerate the assets."
-msgstr "一度サーバーを起動するとアセットファイルが変更されたかどうかはわかりません。そのため、サーバーを再起動するだけで、アセットが再生成されます。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:195
 msgid "check the console (in the dev tools, usually opened with F12) to make sure there are no obvious errors"
-msgstr "コンソール(通常はF12で開発ツールに表示されます) をチェックして、明らかなエラーがないことを確認します。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:197
 msgid "try to add a console.log at the beginning of your file (before any module definition), so you can see if a file has been loaded or not"
-msgstr "ファイルの先頭(モジュール定義の前)に console.log を追加して、ファイルが読み込まれたかどうかを確認します。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:199
 msgid "in the user interface, in debug mode (INSERT LINK HERE TO DEBUG MODE), there is an option to force the server to update its assets files."
-msgstr "ユーザーインターフェースのデバッグモード(INSERT LINK HERE TO DEBUG MODE) では、サーバーのassetファイルを強制的に更新するオプションがあります。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:201
 msgid "use the *debug=assets* mode.  This will actually bypass the asset bundles (note that it does not actually solve the issue. The server still uses outdated bundles)"
-msgstr "*debug=assets* モードを使用します。これは実際にassetバンドルをバイパスします(実際には問題が解決しないことに注意してください。 サーバーはまだ古いバンドルを使用しています) 。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:203
 msgid "finally, the most convenient way to do it, for a developer, is to start the server with the *--dev=all* option. This activates the file watcher options, which will automatically invalidate assets when necessary.  Note that it does not work very well if the OS is Windows."
-msgstr "最後に、開発者にとって最も便利な方法は、 *--dev=all* オプションを付けてサーバーを起動することです。これにより、ファイルウォッチャーのオプションが有効になり、必要に応じて自動的にassetが無効になります。ただし、OSがWindowsの場合は、あまりうまくいかないので注意してください。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:207
 msgid "remember to refresh your page!"
-msgstr "ページの更新を忘れないでください。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:208
 msgid "or maybe to save your code file..."
-msgstr "コードファイルの保存も忘れないでください。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:211
 msgid "Once an asset file has been recreated, you need to refresh the page, to reload the proper files (if that does not work, the files may be cached)."
-msgstr "Assetファイルが再作成されたら、ページを更新して適切なファイルを再読み込みする必要があります(うまくいかない場合は、ファイルがキャッシュされている可能性があります) 。"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:216
 msgid "Javascript Module System"
@@ -8640,7 +8640,7 @@ msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:490
 msgid "Widgets"
-msgstr "ウィジェット"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:492
 msgid "The *Widget* class is really an important building block of the user interface. Pretty much everything in the user interface is under the control of a widget. The Widget class is defined in the module *web.Widget*, in *widget.js*."
@@ -10057,7 +10057,7 @@ msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:2023
 msgid "Attribute"
-msgstr "属性"
+msgstr ""
 
 #: ../../content/developer/reference/javascript_reference.rst:2025
 msgid "graph_type: string, can be either 'line' or 'bar'"
@@ -11641,7 +11641,7 @@ msgstr ""
 
 #: ../../content/developer/reference/module.rst:11
 msgid "Manifest"
-msgstr "マニフェスト"
+msgstr ""
 
 #: ../../content/developer/reference/module.rst:13
 msgid "The manifest file serves to declare a python package as an Odoo module and to specify module metadata."
@@ -11929,7 +11929,7 @@ msgstr ""
 
 #: ../../content/developer/reference/orm.rst:90
 msgid "Model"
-msgstr "モデル"
+msgstr ""
 
 #: ../../content/developer/reference/orm.rst:99
 msgid "TransientModel"
@@ -12034,7 +12034,7 @@ msgstr ""
 
 #: ../../content/developer/reference/orm.rst:232
 msgid "Computed Fields"
-msgstr "計算フィールド"
+msgstr ""
 
 #: ../../content/developer/reference/orm.rst:234
 msgid "Fields can be computed (instead of read straight from the database) using the ``compute`` parameter. **It must assign the computed value to the field**. If it uses the values of other *fields*, it should specify those fields using :func:`~odoo.api.depends`. ::"
@@ -13622,7 +13622,7 @@ msgstr ""
 
 #: ../../content/developer/reference/reports.rst:148
 msgid "Barcodes"
-msgstr "バーコード"
+msgstr ""
 
 #: ../../content/developer/reference/reports.rst:150
 msgid "Barcodes are images returned by a controller and can easily be embedded in reports thanks to the QWeb syntax (e.g. see :ref:`reference/qweb/attributes`):"
@@ -13777,7 +13777,7 @@ msgstr ""
 
 #: ../../content/developer/reference/reports.rst:309
 msgid "Reports are web pages"
-msgstr "レポートはWebページ"
+msgstr ""
 
 #: ../../content/developer/reference/reports.rst:311
 msgid "Reports are dynamically generated by the report module and can be accessed directly via URL:"
@@ -14788,7 +14788,7 @@ msgstr ""
 
 #: ../../content/developer/reference/views.rst:68
 msgid "Attributes"
-msgstr "属性"
+msgstr ""
 
 #: ../../content/developer/reference/views.rst:72
 msgid "view attributes & view element attributes attrs & states attributes are missing generic information"
@@ -14892,7 +14892,7 @@ msgstr ""
 #: ../../content/developer/reference/views.rst:1938
 #: ../../content/developer/reference/views.rst:1964
 msgid "Example:"
-msgstr "例："
+msgstr ""
 
 #: ../../content/developer/reference/views.rst:179
 msgid "Views main content section, with field, group & separator ?"
@@ -15623,7 +15623,7 @@ msgstr ""
 
 #: ../../content/developer/reference/views.rst:728
 msgid "Form"
-msgstr "フォーム"
+msgstr ""
 
 #: ../../content/developer/reference/views.rst:730
 msgid "Form views are used to display the data from a single record. Their root element is ``<form>``. They are composed of regular HTML_ with additional structural and semantic components."
@@ -16580,7 +16580,7 @@ msgstr ""
 
 #: ../../content/developer/reference/views.rst:1372
 msgid "List"
-msgstr "一覧表示"
+msgstr ""
 
 #: ../../content/developer/reference/views.rst:1374
 msgid "The root element of list views is ``<tree>``\\ [#treehistory]_. The list view's root can have the following attributes:"
@@ -17082,7 +17082,7 @@ msgstr ""
 
 #: ../../content/developer/reference/views.rst:1820
 msgid "Search"
-msgstr "検索"
+msgstr ""
 
 #: ../../content/developer/reference/views.rst:1822
 msgid "Search views are a break from previous view types in that they don't display *content*: although they apply to a specific model, they are used to filter other view's content (generally aggregated views e.g. :ref:`reference/views/list` or :ref:`reference/views/graph`). Beyond that difference in use case, they are defined the same way."
@@ -18543,7 +18543,7 @@ msgstr ""
 
 #: ../../content/developer/webservices/iap.rst:636
 msgid "Types"
-msgstr "型"
+msgstr ""
 
 #: ../../content/developer/webservices/iap.rst:638
 msgid "Exceptions aside, these are *abstract types* used for clarity, you should not care how they are implemented."
