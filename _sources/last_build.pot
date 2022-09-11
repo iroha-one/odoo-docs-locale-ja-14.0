@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-10 09:10+0000\n"
+"POT-Creation-Date: 2022-09-11 09:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,10 +16,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../content/applications.rst:9
-msgid "User Docs"
+#: ../../content/last_build.rst:5
+msgid "Last build date"
 msgstr ""
 
-#: ../../content/applications.rst:11
-msgid "Discover our user guides and configuration tutorials per application."
+#: ../../content/last_build.rst:7
+msgid "The last time the documentation was built in version |version| was on |today|."
 msgstr ""
